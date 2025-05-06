@@ -1,4 +1,4 @@
-# 📱 Technion Bloody Souls Town – PC Survival & Game
+# 📱 Technion Bloody Souls Town – PC Survival & Horror Game
 
 ![bloody-souls-town-img-1](https://github.com/user-attachments/assets/51f9f599-cc7c-4e51-869f-6a5a0711cb2c)
 
