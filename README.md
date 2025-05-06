@@ -24,6 +24,7 @@ The goal was to build real practical experience before graduation.
 ## 📸 Screenshots
 
 Bloody Souls Town Main Menu
+
 ![bloody-souls-town-img-2](https://github.com/user-attachments/assets/73215508-7d98-466a-ab85-7d2606b53fd0)
 
 
@@ -49,7 +50,8 @@ Gameplay and Bosses
 
 ## 🧠 Lessons Learned
 
-- React component-based architecture
-- State management with `useState`
-- Event handling and controlled components
-- Clean UI structure and responsive layout
+- I learned C++ while working on this!
+- Implement advanced combat logic using C++ in UE4.
+- Design and code dynamic game settings menu with input rebinding.
+- Integrate gamepad support with sensitivity modifiers and deadzone handling.
+- Build responsive UI/UX for a horror-themed player experience.
