@@ -2,7 +2,7 @@
 
 ![bloody-souls-town-img-1](https://github.com/user-attachments/assets/51f9f599-cc7c-4e51-869f-6a5a0711cb2c)
 
-A PC 3D horror-survival game developed in Unreal Engine 4 with C++, during my studies at the Technion – Israel Institute of Technology.
+A PC 3D survival-horror game developed in Unreal Engine 4 with C++, during my studies at the Technion – Israel Institute of Technology.
 
 ## 🚀 Features
 
