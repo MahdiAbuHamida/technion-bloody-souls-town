@@ -4,6 +4,8 @@
 
 A PC 3D survival-horror game developed in Unreal Engine 4 with C++, during my studies at the Technion – Israel Institute of Technology.
 
+## Note: The repository inlcludes only the C++ files, missing Blueprints and other project content.
+
 ## 🚀 Features
 
 - Advanced combat mechanics
