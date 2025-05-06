@@ -44,7 +44,8 @@ A new game has started!
 
 Gameplay and Bosses
 
-![Uploading bloody-souls-town-img-44.png…]()
+![bloody-souls-town-img-44](https://github.com/user-attachments/assets/a1f31a90-da45-457f-8744-e28d87348955)
+
 
 
 
