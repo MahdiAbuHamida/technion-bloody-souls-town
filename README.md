@@ -1,6 +1,6 @@
 # 🎮🧟‍♂️ Bloody Souls Town – PC Survival & Horror Game (Jun 2022)
 
-[![Watch the video]([https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg](https://i.ytimg.com/an_webp/jwAHCHhHN5A/mqdefault_6s.webp?du=3000&sqp=CMDt2dYG&rs=AOn4CLDVGthVCJDPvXe0p9Vjm-XfM-54oQ))](https://www.youtube.com/embed/jwAHCHhHN5A?si=cfnnSqgO9Z8k63eM")
+[![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/jwAHCHhHN5A)
 
 
 ![bloody-souls-town-img-1](https://github.com/user-attachments/assets/51f9f599-cc7c-4e51-869f-6a5a0711cb2c)
