@@ -2,9 +2,6 @@
 
 [![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
 
-[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
-
 
 ![bloody-souls-town-img-1](https://github.com/user-attachments/assets/51f9f599-cc7c-4e51-869f-6a5a0711cb2c)
 
