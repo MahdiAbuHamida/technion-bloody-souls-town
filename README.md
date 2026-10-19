@@ -1,5 +1,8 @@
 # 🎮🧟‍♂️ Bloody Souls Town – PC Survival & Horror Game (Jun 2022)
 
+Youtube Gameplay Video 📺
+[![Watch the video]([https://youtube.com](https://www.youtube.com/watch?v=jwAHCHhHN5A))]([https://youtube.com](https://www.youtube.com/watch?v=jwAHCHhHN5A))
+
 ![bloody-souls-town-img-1](https://github.com/user-attachments/assets/51f9f599-cc7c-4e51-869f-6a5a0711cb2c)
 
 A PC 3D survival-horror game developed in Unreal Engine 4 with C++, during my studies at the Technion – Israel Institute of Technology.
